@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Бронза",
+	"description": "Как медь, но крепче",
+	"hardness": 2,
+	"cost": 2.0,
+	"color": "ffffff"
+}

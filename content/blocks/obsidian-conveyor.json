@@ -2,6 +2,7 @@
 	"type": "Conveyor",
 	"name": "Обсидиановый конвейер",
 	"description": "Теперь ебучие дроны не сломают ваш конвейер!",
+    "health": 1000,
 	"requirements": [
 		{"item": "titanium", "amount": 3},
 		{"item": "copper", "amount": 3},

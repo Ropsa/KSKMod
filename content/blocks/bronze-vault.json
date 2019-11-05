@@ -1,0 +1,16 @@
+{
+	"name": "Бронзовое Мега Хранилище",
+	"description": "Такое же большое, как мои планы на будущее (нет)",
+	"type": "Vault",
+	"itemCapacity": 250000,
+	"hasItems": true,
+	"health": 20000,
+	"size": 6,
+	"requirements": [
+		{ "item": "electrum", "amount": 200 },
+		{ "item": "titanium", "amount": 600 },
+		{ "item": "bronze", "amount": 400 }
+	],
+	"category": "effect",
+	"research": "vault"
+}

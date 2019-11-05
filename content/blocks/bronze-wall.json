@@ -1,0 +1,12 @@
+{
+	"name": "Бронзовая стена",
+	"description": "Просто стена ._.",
+	"type": "Wall",
+	"health": 2500,
+	"size": 2,
+	"requirements": [
+		{ "item": "bronze", "amount": 50 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

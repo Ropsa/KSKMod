@@ -1,0 +1,35 @@
+{
+	"type": "GenericSmelter",
+	"name": "Бронзовая печь",
+	"description": "Смешайте серебро и медь для получения бронзы",
+	"liquidCapacity": 50,
+	"outputItem": {"item": "bronze", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+				{ "item": "copper", "amount": 3 },
+                { "item": "silver", "amount": 2 }   
+			]
+		},
+		"liquid": {
+			"liquid": "water",
+			"amount": 1.0
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 25 },
+		{ "item": "copper", "amount": 55 },
+		{ "item": "silicon", "amount": 40 }
+	],
+	"category": "crafting",
+	"research": "silver-crucible",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
