@@ -1,0 +1,23 @@
+{
+	"name": "Обсидиановый Бур",
+	"description": "Бур, пронзающий любую породу.",
+	"type": "Drill",
+	"size": 5,
+	"tier": 3,
+	"drillTime": 50,
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "molten-silver", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "obsidian", "amount": 250 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "laser-drill"
+}

@@ -1,0 +1,14 @@
+{
+	"type": "Conveyor",
+	"name": "Обсидиановый конвейер",
+	"description": "Теперь ебучие дроны не сломают ваш конвейер!",
+	"requirements": [
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "obsidian", "amount": 10}
+	],
+	"category": "distribution",
+	"speed": 0.24,
+	"research": "titanium-conveyor"
+}

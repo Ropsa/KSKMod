@@ -1,0 +1,12 @@
+{
+	"name": "Obsidian Wall",
+	"description": "Самая крепкая стена в игре",
+	"type": "Wall",
+	"health": 40000,
+	"size": 2,
+	"requirements": [
+		{ "item": "obsidian", "amount": 200 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}
