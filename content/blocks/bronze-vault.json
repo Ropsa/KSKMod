@@ -2,7 +2,7 @@
 	"name": "Бронзовое Мега Хранилище",
 	"description": "Такое же большое, как мои планы на будущее (нет)",
 	"type": "Vault",
-	"itemCapacity": 250000,
+	"itemCapacity": 9999,
 	"hasItems": true,
 	"health": 20000,
 	"size": 6,
