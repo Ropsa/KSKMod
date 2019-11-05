@@ -1,8 +1,8 @@
 {
-	"name": "Obsidian Wall",
+	"name": "Обсидиановая стена",
 	"description": "Самая крепкая стена в игре",
 	"type": "Wall",
-	"health": 40000,
+	"health": 20000,
 	"size": 2,
 	"requirements": [
 		{ "item": "obsidian", "amount": 200 }
